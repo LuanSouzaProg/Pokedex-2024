@@ -1,5 +1,5 @@
-import 'dart:convert';
 import 'package:dio/dio.dart';
+import 'dart:convert';
 
 import '../model/pokemon_model.dart';
 import '../utils/constraints.dart';

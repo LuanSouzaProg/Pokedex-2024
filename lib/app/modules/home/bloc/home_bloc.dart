@@ -1,10 +1,10 @@
 import 'package:flutter_modular/flutter_modular.dart';
 import 'package:equatable/equatable.dart';
 import 'package:bloc/bloc.dart';
-import 'package:pokemon/app/shared/model/pokemon_model.dart';
-import 'package:pokemon/app/shared/utils/state.dart';
 
 import '../../../shared/repositories/pokemon_repository.dart';
+import '../../../shared/model/pokemon_model.dart';
+import '../../../shared/utils/state.dart';
 
 part 'home_event.dart';
 part 'home_state.dart';
